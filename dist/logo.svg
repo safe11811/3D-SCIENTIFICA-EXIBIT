@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" width="160" height="40">
+  <!-- NPS Emblem & Wordmark (Warm School Architectural Palette) -->
+  <g transform="translate(4, 4)">
+    <!-- Crest Shield Background -->
+    <path d="M16 2 L28 6 L28 18 C28 25 21 30 16 32 C11 30 4 25 4 18 L4 6 Z" fill="#5B3A2E" stroke="#D8CBB6" stroke-width="1.5" />
+    <!-- Torch / Science Flame in Accent Terracotta -->
+    <path d="M16 8 C17.5 11 19 13 18 15 C17 17 15 17 15 19 C15 20.5 17 21 16 23 C14 21 13 18.5 14 16 C14.5 14.5 14 13 16 8 Z" fill="#A4502F" />
+    <!-- Inner Star / Atom Accent -->
+    <circle cx="16" cy="18" r="1.5" fill="#FBF8F2" />
+    <path d="M11 23 L21 23 L16 26 Z" fill="#D8CBB6" />
+  </g>
+  
+  <!-- Text Label -->
+  <text x="42" y="19" font-family="'Source Serif 4', Georgia, serif" font-size="14" font-weight="600" fill="#FBF8F2" letter-spacing="0.2">NPS</text>
+  <text x="42" y="31" font-family="'Public Sans', sans-serif" font-size="9.5" font-weight="500" fill="#D8CBB6" letter-spacing="0.4">YESHWANTHPUR</text>
+</svg>

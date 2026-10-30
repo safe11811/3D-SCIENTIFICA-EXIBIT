@@ -1,0 +1,25 @@
+{
+  "name": "Scientifica 2026 — 3D Exhibition Guide",
+  "short_name": "Scientifica",
+  "description": "Interactive 3D exhibition guide, floor plans and schedules for Scientifica 2026 at NPS Yeshwanthpur.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8fafc",
+  "theme_color": "#f8fafc",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
